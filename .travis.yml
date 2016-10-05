@@ -1,5 +1,5 @@
 sudo: false
-language: python
+language: Python
 env:
   - TOXENV=py26
   - TOXENV=py27
